@@ -20,4 +20,4 @@ AI · Full-Stack Development · Search · Data Engineering
 
 `Machine Learning` · `Full-Stack Development` · `Information Retrieval` · `Data Engineering` · `Distributed Systems`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khachani/)
